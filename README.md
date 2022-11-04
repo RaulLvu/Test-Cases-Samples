@@ -19,7 +19,9 @@ Check login with a valid Ess username and a valid password.
 Login unsuccessful.                                                                                                                                              Ess user should login after providing a valid username and password.
 
 **Test data:**
+
 Ess User:raul2021.
+
 Pass:12345678.
 
 **Status:**
@@ -40,7 +42,9 @@ Check with the admin user if can view personal details.
 Admin user should be able to view personal details.
 
 **Test data:**
+
 User:Admin.
+
 Pass:admin123.
 
 **Status:**
@@ -62,7 +66,9 @@ Check with the admin user if he can edit some fields in personal details.
 The user should be able to edit and save details.
 
 **Test data:**
+
 User: Admin.
+
 Pass:admin123.
 
 **Status:**
@@ -87,7 +93,9 @@ Check Admin user if can add multiple emergency contacts.
 Admin user should be able to add multiple emergency contacts.                                                    
 
 **Test data:**
+
 User:Admin.
+
 Pass:admin123.
 
 **Status:**
