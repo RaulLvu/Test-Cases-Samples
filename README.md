@@ -1,12 +1,12 @@
 # Test Cases Samples
 
-Below are some Test Cases sample that I wrote working on previous projects.
+Below are some test cases sample that I wrote working on previous projects.
 
 ------------------
 
 
 **Description:**
-Check login with valid Ess user name and valid password.
+Check login with a valid Ess user name and  password.
 
 **Steps to reproduce:**
 1) Launch Browser.  
@@ -16,10 +16,10 @@ Check login with valid Ess user name and valid password.
 5) Click on login button.
 
 **Expected result:**
-Login unsuccessful.                                                                                                                                              Ess should see my info page after login page is successful.
+Login unsuccessful.                                                                                                                                              Ess should login after provide a valid user name and password.
 
 **Test data:**
-User:raul2021.
+Ess User:raul2021.
 Pass:12345678.
 
 **Status:**
@@ -29,7 +29,7 @@ Faild.
 
 
  **Description:**
-Check Admin user is able to view personal details.
+Check Admin user if is able to view personal details.
 
 **Steps to reproduce:**
 1) Login to orange HRM as Admin user.   
@@ -49,7 +49,7 @@ Pass.
 --------------------
 
  **Description:**
-Check Admin user can edit some fields in personal details
+Check Admin user if can edit some fields in personal details.
 
 **Steps to reproduce:**
 1) Login to orange HRM as Admin user.
@@ -71,7 +71,7 @@ Passed.
 --------------------
 
  **Description:**
-Check Admin user able to add multiple emergency contact.
+Check admin user if is able to add multiple emergency contact.
 
 
 **Steps to reproduce:**
