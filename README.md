@@ -20,9 +20,9 @@ Login unsuccessful.                                                             
 
 **Test data:**
 
-Ess User:raul2021.
+Ess User: raul2021.
 
-Pass:12345678.
+Pass: 12345678.
 
 **Status:**
 Failed.
@@ -43,9 +43,9 @@ Admin user should be able to view personal details.
 
 **Test data:**
 
-User:Admin.
+User: Admin.
 
-Pass:admin123.
+Pass: admin123.
 
 **Status:**
 Pass.
@@ -69,7 +69,7 @@ The user should be able to edit and save details.
 
 User: Admin.
 
-Pass:admin123.
+Pass: admin123.
 
 **Status:**
 Passed.
@@ -94,9 +94,9 @@ Admin user should be able to add multiple emergency contacts.
 
 **Test data:**
 
-User:Admin.
+User: Admin.
 
-Pass:admin123.
+Pass: admin123.
 
 **Status:**
 Failed.
