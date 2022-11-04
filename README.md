@@ -16,7 +16,7 @@ Check login with a valid Ess username and a valid password.
 5) Click on the login button.
 
 **Expected result:**
-Login unsuccessful.                                                                                                                                              Ess user should login after providing a valid username and password.
+Login unsuccessful.                                                                                                                                              Ess user should login after providing a valid username and a valid password.
 
 **Test data:**
 
